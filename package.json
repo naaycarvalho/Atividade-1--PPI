@@ -1,0 +1,20 @@
+{
+  "name": "atividade-1--ppi",
+  "version": "1.0.0",
+  "description": "atividade venda de ingressos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naaycarvalho/Atividade-1--PPI.git"
+  },
+  "author": "Nayara Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naaycarvalho/Atividade-1--PPI/issues"
+  },
+  "homepage": "https://github.com/naaycarvalho/Atividade-1--PPI#readme"
+}
