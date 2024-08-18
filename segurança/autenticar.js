@@ -4,7 +4,8 @@ export default function autenticar (requisicao,resposta){
     if (usuario == 'admin' && senha == 'admin') {
         requisicao.session.autenticado = true;
         
-        resposta.redirect('./index.html');
+        resposta.redirect('/index.html');
+        
     }
     {
         resposta.write('<html>');
