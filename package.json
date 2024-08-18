@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/naaycarvalho/Atividade-1--PPI/issues"
   },
-  "homepage": "https://github.com/naaycarvalho/Atividade-1--PPI#readme"
+  "homepage": "https://github.com/naaycarvalho/Atividade-1--PPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }

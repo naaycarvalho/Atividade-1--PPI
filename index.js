@@ -1,0 +1,15 @@
+import express from 'express';
+
+const host = '0.0.0.0';
+const porta= 3000;
+const app = express ();
+
+app.use(express.static('./publico'));
+
+
+app.listen (porta, host, () =>{
+    console.log( `Servidor rodando em http://${host}:${porta}`);
+})
+
+
+
